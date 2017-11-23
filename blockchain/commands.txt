@@ -1,0 +1,10 @@
+blocks
+score
+difficulty
+challenge
+setChallenge <challenge>
+setDifficultyNow <difficulty>
+scoreboard <host>
+<number>.sav
+<number>
+reset

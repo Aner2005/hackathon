@@ -1,0 +1,5 @@
+mvn exec:java -Dexec.mainClass="blockchain.net.impl.blockchain.BlockchainServer" -Dexec.args=7777
+
+mvn exec:java -Dexec.mainClass="blockchain.net.impl.blockchain.BlockchainClient" -Dexec.args="localhost"
+
+mvn exec:java -Dexec.mainClass="blockchain.net.board.BoardServerMain" -Dexec.args=8888
